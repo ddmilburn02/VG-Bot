@@ -20,6 +20,10 @@ client.on('message', message => {
       message.delete(1);
       message.channel.send(config.h1a)
     }
+    if (message.content === config.h2) {
+      message.delete(1);
+      message.channel.send(config.h2a)
+    }
 });
 
 client.login(config.token);
