@@ -1,0 +1,21 @@
+{
+  "name": "vg-bot",
+  "version": "0.1.0",
+  "description": "VG Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmilburn02/VG-Bot.git"
+  },
+  "author": "ddmilburn02",
+  "bugs": {
+    "url": "https://github.com/ddmilburn02/VG-Bot/issues"
+  },
+  "homepage": "https://github.com/ddmilburn02/VG-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
